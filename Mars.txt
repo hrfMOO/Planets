@@ -1,2 +1,5 @@
-Mars is red.It might have water.
+Mars is red.
+It is also hot and dry.
+It doesn't have a big red spot.
 It's quite big and has three rovers.
+
